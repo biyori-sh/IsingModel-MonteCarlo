@@ -8,6 +8,7 @@ Notes of the Ising model and the MC simulation (the Metropolis method and the he
 
 MC simulation codes of the isotropic Ising mocdel using Python (calculting the magnetization, specific heat, Binder cumulant and correlation function).
 
+Comments in Python codes are in English.
 
 ## Ising2d_anisotropic
 
